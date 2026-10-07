@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+models/
+openAI clip/
+*.pt
+*.bin
+*.safetensors
+output/
+*.mp4
+*.avi
